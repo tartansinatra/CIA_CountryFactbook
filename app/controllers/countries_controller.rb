@@ -40,8 +40,4 @@ class CountriesController < ApplicationController
   end
   
 
-
-
-
-
 end
